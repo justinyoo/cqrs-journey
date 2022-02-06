@@ -6,7 +6,8 @@ This project is not being actively maintained. The source has not been updated s
 We will attempt to provide help and answer questions. However, the source and docs are presented as-is. 
 There are currently no plans to update this project.
 
-http://cqrsjourney.github.com
+* Web: https://cqrsjourney.github.io
+* MSDN: https://docs.microsoft.com/previous-versions/msp-n-p/jj554200(v=pandp.10) &ndash; including PDF and epub links
 
 # Release Notes
 
